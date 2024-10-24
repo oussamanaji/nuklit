@@ -248,14 +248,14 @@ Utilize NLP techniques to analyze operator logs and shift handover notes, uncove
 
 ## Technical Complexity and Resources
 
-| Project | Technical Complexity | Computing Resources | Domain Expertise Needed | Implementation Timeline |
-|---------|---------------------|---------------------|------------------------|----------------------|
-| Integrated Anomaly Detection | High | High | Nuclear Engineering, AI/ML | 12-18 months |
-| Safety Protocol Compliance | Medium | Medium | Safety Protocols, AI/ML | 8-12 months |
-| Cyber-Physical Security | High | High | Cybersecurity, Nuclear Engineering | 12-18 months |
-| Generative Models | Medium | High | Data Science, Nuclear Engineering | 6-12 months |
-| Signal/Spectral Analysis | High | Medium | Signal Processing, Nuclear Physics | 10-14 months |
-| NLP for Operator Logs | Medium | Medium | NLP, Nuclear Operations | 6-8 months |
+| Project | Technical Complexity | Computing Resources | Domain Expertise Needed |
+|---------|---------------------|---------------------|------------------------|
+| Integrated Anomaly Detection | High | High | Nuclear Engineering, AI/ML |
+| Safety Protocol Compliance | Medium | Medium | Safety Protocols, AI/ML |
+| Cyber-Physical Security | High | High | Cybersecurity, Nuclear Engineering |
+| Generative Models | Medium | High | Data Science, Nuclear Engineering |
+| Signal/Spectral Analysis | High | Medium | Signal Processing, Nuclear Physics |
+| NLP for Operator Logs | Medium | Medium | NLP, Nuclear Operations |
 
 ## Innovation Impact Analysis
 
