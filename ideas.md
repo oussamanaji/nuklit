@@ -1,4 +1,4 @@
-# Conference Paper Ideas on AI-Driven Nuclear Safety Enhancements
+# Conference Paper Ideas
 
 ## **1. Integrated Anomaly Detection System**
 
